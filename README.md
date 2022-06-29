@@ -1,2 +1,3 @@
 # site-django
-Repositório criado para realizar projeto do tutorial disponível no Django
+## Tutorial Django 
+Repositório criado para realizar projeto do tutorial disponível no Django.
